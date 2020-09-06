@@ -30,16 +30,16 @@ const TodoForm = ({ addTodo }) => {
   return (
     <Form onSubmit={handleSubmit}>
       <Form.Group>
-        <Form.Label>MY TO-DO LIST</Form.Label>
+        <Form.Label></Form.Label>
         <Form.Control
           type="text"
-          placeholder="Add To-Do"
+          placeholder="New To-Do...o"
           name="task"
           value={todo.task}
           onChange={handleTaskInputChange}
         />
         <Button variant="success" type="submit">
-          Submit
+          Add
         </Button>
       </Form.Group>
     </Form>
