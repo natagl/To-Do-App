@@ -1,7 +1,7 @@
-### 📋 React To-Do List<br>
+### 📋 React To-Do List App<br>
 
 
-A simple, volatile to-do list application built with React and Hooks 📋<br>
+A simple,to-do list application built with React(Hooks)📋<br>
 
 #### 🛠️ Technologies<br>
 React
