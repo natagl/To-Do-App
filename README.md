@@ -2,6 +2,7 @@
 
 
 A simple,to-do list application built with React(Hooks)📋<br>
+![Todo Image](todo.jpg)
 
 #### 🛠️ Technologies<br>
 React
