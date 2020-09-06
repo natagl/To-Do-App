@@ -1,20 +1,17 @@
-### React To-Do App
-<br>
-This is a React To-Do App<br>
+### 📋 React To-Do List<br>
 
-Instructions:<br>
 
-First clone/download this repository.<br>
+A simple, volatile to-do list application built with React and Hooks 📋<br>
 
+#### 🛠️ Technologies<br>
+React
+#### ⚙️ Requirements<br>
+Git<br>
+Node.js<br>
+NPM<br>
+#### 🚀 Installation<br>
 *$ git clone git@github.com:natagl/To-Do-App.git*<br>
-
-Install dependencies. <br>
-
-Make sure that you already have Node.js installed.<br>
-
-*$npm install* --> Run it <br>
-
-*$ npm start* --> Start App<br>
-### Contact<br>
-
+*$ npm install*<br>
+*$ npm start*<br>
+The application will open in the browser on http://localhost:3000<br>
 Nataliia Glinska - glinska.nataliia21@gmail.com📩<br>
